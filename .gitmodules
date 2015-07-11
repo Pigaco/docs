@@ -1,0 +1,18 @@
+[submodule "consolemgr"]
+	path = consolemgr
+	url = https://github.com/Pigaco/consolemgr.git
+[submodule "networked_client"]
+	path = networked_client
+	url = https://github.com/Pigaco/networked_client.git
+[submodule "pihud"]
+	path = pihud
+	url = https://github.com/Pigaco/pihud.git
+[submodule "Console"]
+	path = Console
+	url = https://github.com/Pigaco/Console.git
+[submodule "libpiga"]
+	path = libpiga
+	url = https://github.com/Pigaco/libpiga.git
+[submodule "hosts"]
+	path = hosts
+	url = https://github.com/Pigaco/hosts.git
