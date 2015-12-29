@@ -779,6 +779,9 @@ INPUT                  = consolemgr/include \
                          hosts/host.h \
                          hosts/README.md \
                          hosts/arduino/README.md \
+                         hosts/arduino/arduino_onboard/readme.md \
+                         hosts/raspberrypi_gpio/README.md \
+                         hosts/pc_keyboard/README.md \
                          Console/README.md \
                          Console/include \
                          Console/src \
